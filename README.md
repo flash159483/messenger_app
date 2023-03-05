@@ -2,10 +2,10 @@
 The first messenger of the series!
 
 ## Table of contents
-* [ScreenShot](#technologies)
+* [Screenshot](#Screenshot)
 * [Database layout](#database-layout)
 
-## ScreenShot
+## Screenshot
 <img scr="https://github.com/flash159483/messenger_app/blob/main/picture/register_screen.png?raw=true" width="200" height="400"/>
 
 
