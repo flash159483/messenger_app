@@ -6,7 +6,7 @@ The first messenger of the series!
 * [Database layout](#database-layout)
 
 ## Screenshot
-<img scr="https://github.com/flash159483/messenger_app/blob/main/picture/register_screen.png" width="200" height="400"/>
+<img scr="https://user-images.githubusercontent.com/123813671/222947755-f52c5b0a-6ed7-46e0-a6e5-49c8039c00ea.png" width="200" height="400"/>
 
 
 
