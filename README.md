@@ -34,7 +34,7 @@ The first messenger of the series!
 <table cellpadding="15">
   <tr>
     <td><img src = https://user-images.githubusercontent.com/123813671/222947748-d33cfcf8-ef02-4294-a06c-c5e527408281.png width = "300"></td>
-    <td><img src = https://user-images.githubusercontent.com/123813671/222948614-ce135890-b345-43cf-9833-2f2467f9d0bd.png width = "300"></td>
+    <td><img src = https://user-images.githubusercontent.com/123813671/222949140-0f0bde24-3f93-4907-b2fc-de0a94239132.png width = "300"></td>
     <td><img src = https://user-images.githubusercontent.com/123813671/222948603-ec599d89-b522-46b4-862e-43adbe720b8a.png width = "300"></td>
   </tr>
 </table>
