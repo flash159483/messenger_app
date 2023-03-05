@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406808996835",
+    "project_id": "chatapp-d20dc",
+    "storage_bucket": "chatapp-d20dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406808996835:android:867dd44ac0cd574fe68ed6",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406808996835-dff9dcdpeh9rq459b03dmfhpn4d74aek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweJXmSMSySwOzG4YxHmLQqzxcugyh79Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406808996835-dff9dcdpeh9rq459b03dmfhpn4d74aek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
