@@ -6,7 +6,7 @@ The first messenger of the series!
 * [Database layout](#database-layout)
 
 ## Screenshot
-<img scr = "https://user-images.githubusercontent.com/123813671/222947839-f68fdf71-399a-4ac5-bbf9-fd4e358358c5.png">
+<img src = https://user-images.githubusercontent.com/123813671/222947839-f68fdf71-399a-4ac5-bbf9-fd4e358358c5.png width = "300"> <img src = 
 
 
 
