@@ -56,6 +56,8 @@ The first messenger of the series!
 </table>
 
 
+## Widget Tree
+![image](https://github.com/flash159483/messenger_app/assets/123813671/bc8e647e-8d00-41b7-afcb-724c5f2a151f)
       
 
 ## Database layout
